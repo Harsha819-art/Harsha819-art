@@ -1,6 +1,6 @@
 <h1>Hey there! 👋</h1>
 
-<h2>About Me</h2>
+<h3>About Me</h3>
 
 I'm Harsha, a Computer Science student from Bengaluru, India.
 I like building things with code and learning how technology works.
@@ -18,13 +18,13 @@ My current focus is improving my programming and problem-solving skills while bu
 - Machine Learning 🤖
 - Git & GitHub 🐙
 
-<h4>Things I have built</h4>
+<h3>Things I have built</h3>
 
  🌍 Full-Stack Travel Listing Platform
  🚗 Smart Lane Detection System
  🤖 Machine Learning project
 
-<h5> Fun Facts</h5>
+<h4> Fun Facts</h4>
 
 - 💻 I enjoy coding and building projects
 - 🧠 Always curious to learn something new
