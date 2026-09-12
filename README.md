@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1>Hey there! 👋</h1>
 
-<!--
-**Harsha819-art/Harsha819-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About Me</h2>
 
-Here are some ideas to get you started:
+I'm Harsha, a Computer Science student from Bengaluru, India.
+I like building things with code and learning how technology works.
+I'm mainly interested in **Full-Stack Development and Machine Learning**.
+My current focus is improving my programming and problem-solving skills while building real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>What I work with</h3>
+
+- Python 🐍
+- JavaScript ⚡
+- React.js ⚛️
+- Node.js 🚀
+- MongoDB 🍃
+- SQL 🗄️
+- Machine Learning 🤖
+- Git & GitHub 🐙
+
+<h4>Things I have built</h4>
+
+ 🌍 Full-Stack Travel Listing Platform
+ 🚗 Smart Lane Detection System
+ 🤖 Machine Learning project
+
+<h5> Fun Facts</h5>
+
+- 💻 I enjoy coding and building projects
+- 🧠 Always curious to learn something new
+- 🚀 I like turning ideas into working applications
+- 🎮 I enjoy playing sports in my free time
+
+Thanks for visiting my profile! ⭐
